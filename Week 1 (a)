@@ -25,3 +25,5 @@ plt.title("Housing prices")
 plt.xlabel('Size')
 plt.ylabel('Price')
 plt.show()
+
+#output plot in README.md
